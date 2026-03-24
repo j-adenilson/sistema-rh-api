@@ -12,7 +12,7 @@
 	<artifactId>sistema-rh-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
-	<description/>Uma API REST para um sistema de recursos humanos, com funcionalidades para gerenciamento de funcionários, e departamentos.
+	<description>Uma API REST para um sistema de recursos humanos, com funcionalidades para gerenciamento de funcionários, e departamentos.</description>
 	<url/>
 	<licenses>
 		<license/>
